@@ -1,0 +1,137 @@
+
+.flexcontainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.first{
+    border: solid 1px #000000;
+    width: 3000px;
+    height: 1000px;
+    background-image: url('halie-west.jpg');
+    background-size: cover;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    }
+
+    
+    
+.image {
+    background-color: rgba(5, 5, 5, 0.267);
+    width: 50px;
+    height: 70px;
+    display:
+}
+
+.second {
+    border: solid 1px #000000;                            
+    width: 4500px;
+    height: 1000px;
+    background-color: aliceblue;
+    background-position: top center;
+    }
+
+.foot {
+    margin-top: 650px;
+    text-align: center;
+    color: white;
+    ;
+    }
+.HW {        
+    color: white;
+    }
+.Un {
+    color:white;
+    }
+
+.upper{
+
+    color: black;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 100px;
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head{
+    color: black;
+    font-size: 24px;
+    font-family: MontserratBoldItalic-ALPax
+    font-weight: 32px;
+    background-color: #ffffff;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+
+.form-div{
+    background-color: #ffffff;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    box-shadow: #111111, 5px;
+    margin-top: 50px;
+}
+
+label {
+    font-size: small;
+}
+
+.right-inputs{
+    margin-left: 300px;
+    margin-top: -164px;
+}
+
+.logo-img{
+    width: 100px;
+    height: auto;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.logo{
+    display: flex;
+    background-color: #11111171;
+    margin-top: 150px;
+    justify-content: center;
+    align-items: center;
+    height: 170px
+    ;
+}
+
+.logo-name {
+    color: white;
+    font-family: Norsebold.otf;
+    margin-left: 3px;
+    font-size: 100px;
+}
+input {
+    border-radius: 3px;
+    padding: 5px 10px;
+    border: 1px solid rgba(124, 131, 136, 0.521);
+    margin-bottom: 10px;
+}
+input:focus {
+    border-radius: 3px;
+    outline: 1px solid rgba(11, 184, 207, 0.521);
+    }
+
+.submit{
+    margin-left: 30px;
+}
+
+.log link {
+    color: green;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px 50px;
+    font-weight: bold;
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
